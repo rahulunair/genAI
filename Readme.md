@@ -10,8 +10,9 @@ Welcome to the Gen AI Playground, a collection of notebooks designed to showcase
 - [Text-to-Image with Stable Diffusion](./text_to_image.ipynb)
 - [Image-to-Image with Stable Diffusion](./image_to_image.ipynb)
 - [Simple LLM Inference: Playing with Language Models](./simple_llm_inference.ipynb)
-- [Gemma model finetuning with SFT and LoRA](./gemma_intel_gpu_tuning.ipynb)
 - [Code generation using LLMs](./optimize_code_generation_with_llms.ipynb)
+- [Gemma model finetuning with SFT and LoRA](./gemma_xpu_finetuning.ipynb)
+- [QLoRA finetuning on Intel GPUs](./qlora_finetuning.py)
 - Please create an issue here if you want me to add new models and implementations.
 
 ## Requirements
